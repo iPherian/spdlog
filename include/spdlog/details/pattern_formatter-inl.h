@@ -25,6 +25,8 @@
 #include <utility>
 #include <vector>
 
+#include <cassert>
+
 namespace spdlog {
 namespace details {
 
